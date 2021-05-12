@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "immuta/version"
+require_relative 'immuta/version'
 
 module Midl
   module Immuta

@@ -2,6 +2,6 @@
 
 module Midl
   module Immuta
-    VERSION = "0.1.0"
+    VERSION = '0.1.0'
   end
 end
